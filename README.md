@@ -6,4 +6,4 @@ This exists mostly for my own future reference, but is public in case any of thi
 This will probably become a GitHub Pages or ReadTheDocs or something at some point.
 
 ## Legal
-Unless specified otherwise in the text, all contents licensed under CC-BY-SA 3.0.
+Unless specified otherwise in the text, all contents licensed under CC-BY 4.0.
