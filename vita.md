@@ -30,6 +30,8 @@
   * You'll also want [VitaGrafixPatchlist](https://github.com/Electry/VitaGrafixPatchlist) and [VitaGrafix Configurator](https://github.com/Kirezar/VitaGrafixConfigurator)
 * [vita-udcd-uvc](https://github.com/xerpi/vita-udcd-uvc): Output your Vita display to a connected computer as a webcam. Great for streaming/recording.
 * [rePatch-reDux0](https://github.com/dots-tb/rePatch-reDux0): Patch Vita games with community made patches
+* [DolcePolce](https://github.com/KuromeSan/DolcePolce): Bypass PSTV blacklist (only useful on the PSTV)
+* [reVita](https://github.com/MERLev/reVita): Rebind buttons to other buttons, including touch screen events
 
 ## Other things to have
 * [Adrenaline](https://github.com/TheOfficialFloW/Adrenaline/): It's like a PSP inside your PSV!
@@ -52,3 +54,10 @@ What do those different clock speeds mean?
 * `ES4`: Clock speed of the PowerVR SGX543MP4+ GPU
 * `BUS`: Clock speed of the CPU's system bus
 * `XBR`: Clock speed of the GPU's crossbar
+
+
+## FAQ
+### My Vita has been off for 1+ years, I just dug it out, and now it's behaving weird / everything is gone!
+Very cheap/small flash storage, including (but not limited to) SD cards, **microSD** cards, Memory Sticks, and **Vita proprietary memory cards** only have a shelf life of around a year. Beyond that, and the data can become silently corrupted.
+
+If your memory card becomes corrupted, unless you have a backup, you'll just have to start over from scratch. Sorry.
